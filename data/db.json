@@ -28,7 +28,7 @@
       "id": "5",
       "title": "Black Holes",
       "author": "Stiffen Hawking",
-      "price": "699"
+      "price": "799"
     },
     {
       "id": "6",
@@ -41,6 +41,12 @@
       "title": "The White Tiger",
       "author": "Aravind Adiga",
       "price": "450"
+    },
+    {
+      "id": "8",
+      "title": "The",
+      "author": "Kumar",
+      "price": "660"
     }
   ]
 }
