@@ -1,0 +1,46 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Harry Potter",
+      "author": "J.K.Rowlling",
+      "price": "500"
+    },
+    {
+      "id": "2",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": "800"
+    },
+    {
+      "id": "3",
+      "title": "Your Name",
+      "author": "Makoto Shinkai",
+      "price": 300
+    },
+    {
+      "id": "4",
+      "title": "Wings of Fire",
+      "author": "APJ Abdul Kalam",
+      "price": "399"
+    },
+    {
+      "id": "5",
+      "title": "Black Holes",
+      "author": "Stiffen Hawking",
+      "price": "699"
+    },
+    {
+      "id": "6",
+      "title": "Wise and Otherwise",
+      "author": "Sudha Murti",
+      "price": "150"
+    },
+    {
+      "id": "7",
+      "title": "The White Tiger",
+      "author": "Aravind Adiga",
+      "price": "350"
+    }
+  ]
+}
